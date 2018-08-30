@@ -1,0 +1,11 @@
+/home/bak/Documents/PCParkPickerVN/bin/Debug/netcoreapp2.1/PCParkPickerVN.deps.json
+/home/bak/Documents/PCParkPickerVN/bin/Debug/netcoreapp2.1/PCParkPickerVN.runtimeconfig.json
+/home/bak/Documents/PCParkPickerVN/bin/Debug/netcoreapp2.1/PCParkPickerVN.runtimeconfig.dev.json
+/home/bak/Documents/PCParkPickerVN/bin/Debug/netcoreapp2.1/PCParkPickerVN.dll
+/home/bak/Documents/PCParkPickerVN/bin/Debug/netcoreapp2.1/PCParkPickerVN.pdb
+/home/bak/Documents/PCParkPickerVN/obj/Debug/netcoreapp2.1/PCParkPickerVN.csprojAssemblyReference.cache
+/home/bak/Documents/PCParkPickerVN/obj/Debug/netcoreapp2.1/PCParkPickerVN.csproj.CoreCompileInputs.cache
+/home/bak/Documents/PCParkPickerVN/obj/Debug/netcoreapp2.1/PCParkPickerVN.AssemblyInfoInputs.cache
+/home/bak/Documents/PCParkPickerVN/obj/Debug/netcoreapp2.1/PCParkPickerVN.AssemblyInfo.cs
+/home/bak/Documents/PCParkPickerVN/obj/Debug/netcoreapp2.1/PCParkPickerVN.dll
+/home/bak/Documents/PCParkPickerVN/obj/Debug/netcoreapp2.1/PCParkPickerVN.pdb
